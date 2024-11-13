@@ -1,0 +1,15 @@
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\bin\Debug\net6.0\Entity.dll
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\bin\Debug\net6.0\Entity.pdb
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.csproj.Up2Date
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Aleksandar\SpaceXProject\SpaceX\Contracts\obj\Debug\net6.0\ref\Contracts.dll

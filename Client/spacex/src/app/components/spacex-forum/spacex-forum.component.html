@@ -1,0 +1,8 @@
+<div *ngIf="loading" class="mx-auto" style="max-width: 300px; max-height: 300px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif">
+</div>
+
+
+<div *ngIf="!loading" class="excercises mx-auto">
+<app-card *ngFor="let i of data" [cardData]="i"></app-card>
+</div>
